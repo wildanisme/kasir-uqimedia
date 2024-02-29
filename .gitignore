@@ -15,8 +15,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
-/vendor/
-/temp/*
+temp/*
 /backup_db/*
 application/controllers/Dokumentasi.php
 !application/controllers/Dokumentasi.php

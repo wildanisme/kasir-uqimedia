@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "html5-qrcode": "^2.3.7"
+  },
+  "dependencies": {
+    "noty": "^3.2.0-beta-deprecated",
+    "qrious": "^4.0.2"
+  }
+}

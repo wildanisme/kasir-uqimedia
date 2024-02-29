@@ -1,0 +1,12 @@
+{
+    "aplikasi": [
+    {
+      "product": "APP_KASIR",
+      "version": "1.5.0",
+      "releaseDate": "2021-02-02",
+      "updateDate": "2022-08-22",
+      "caption": "Penambahan Fitur & fix bug",
+      "demo": true
+	  }
+	]
+}

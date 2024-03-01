@@ -8,7 +8,7 @@
 	<!-- Tell the browser to be responsive to screen width -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Percetakan & Digital Printing" />
-	<meta name="keywords" content="cetak spanduk, cetak buku tulis murah, buku tulis, percetakan Bogor, percetakan pandeglang, percetakan labuan, percetakan rangkasbitung, undangan blangko murah,percetakan terbaik di Bogor, digital printing di banten, percetakan di banten, spanduk banner serang" />
+	<meta name="keywords" content="cetak spanduk, cetak buku tulis murah, buku tulis, percetakan Bogor, percetakan pandeglang, percetakan labuan, percetakan rangkasbitung, undangan blangko murah,percetakan terbaik di Bogor, digital printing di banten, percetakan di banten, spanduk banner Bogor" />
 	<meta name="author" content="Munajat Ibnu">
 	<!-- Favicon icon -->
 	<link rel="icon" type="image/png" sizes="16x16" href="<?= $favicon; ?>">

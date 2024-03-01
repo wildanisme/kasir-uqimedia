@@ -461,7 +461,7 @@ class Whatsapp extends CI_Controller
 				if ($piutang > 0) {
 					$status_order = 'BELUM LUNAS';
 				} else {
-					$status_order = 'LUNAS';
+					$status_order = '*LUNAS*';
 				}
 				// Array containing search string
 				$searchVal = array(

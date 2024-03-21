@@ -87,7 +87,7 @@ defined('EXIT__AUTO_MAX')      or define('EXIT__AUTO_MAX', 125); // highest auto
 
 //custom constants
 defined('SITE_NAME')            or define('SITE_NAME', '<a href="https://pospercetakan.my.id" target="_blank">POS PERCETAKAN</a>'); // Site Name
-defined('SUPPORT_NAME')			or define('SUPPORT_NAME', '<a href="https://kasirpercetakan.my.id" target="_blank">KASIR PERCETAKAN</a>'); // Site Name
+defined('SUPPORT_NAME')            or define('SUPPORT_NAME', '<a href="https://kasirpercetakan.my.id" target="_blank">KASIR PERCETAKAN</a>'); // Site Name
 defined('SITE_KEY')            or define('SITE_KEY', ''); // key
 defined('NOMOR_TRX')           or define('NOMOR_TRX', 'TRX-'); // penomoran awal transaksi
 defined('DIGIT_TRX')           or define('DIGIT_TRX', '%05s'); // jumlah digit transaksi misal : TRX-000001
@@ -97,8 +97,8 @@ defined('NOMOR_REFF')           or define('NOMOR_REFF', 'REF-'); // penomoran aw
 defined('DIGIT_REFF')           or define('DIGIT_REFF', '%05s'); // jumlah digit transaksi misal : REF-000001
 
 //url api_key
-defined('URL_CHECKER')			or define('URL_CHECKER', 'https://mywidget.github.io');
-defined('URL_API')           	or define('URL_API', 'https://pospercetakan.my.id');
+defined('URL_CHECKER')            or define('URL_CHECKER', 'https://mywidget.github.io');
+defined('URL_API')               or define('URL_API', 'https://pospercetakan.my.id');
 //url sandbox
-defined('URL_CHECKER_SANDBOX')	or define('URL_CHECKER_SANDBOX', 'https://mywidget.github.io');
-defined('URL_API_SANDBOX')		or define('URL_API_SANDBOX', 'https://sandbox.pospercetakan.my.id');
+defined('URL_CHECKER_SANDBOX')    or define('URL_CHECKER_SANDBOX', 'https://mywidget.github.io');
+defined('URL_API_SANDBOX')        or define('URL_API_SANDBOX', 'https://sandbox.pospercetakan.my.id');

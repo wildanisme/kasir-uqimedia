@@ -182,7 +182,7 @@
 							?>
 								<a data-toggle="tooltip" data-original-title="Kirim Ke <?= $nama_popup . ' : ' . phone_number($row["no_hp"]); ?>" data-placement="left" class="text-success kirim_wa" data-id="<?= $id_invoice; ?>" data-nomor="<?= ($row["no_hp"]); ?>" data-trx="<?= ($row["id_transaksi"]); ?>" data-tgl="<?= $row["tgl_trx"]; ?>" href="javascript:void(0)"><i class="fa fa-whatsapp"></i> &nbsp;<?= $nama_popup; ?></a>
 							<?php } else { ?>
-								<a class="text-secondary" href="#"><i class="fa fa-whatsapp"></i> &nbsp;<?= $nama; ?></a>
+								<a class="text-secondary" href="#"><i class="fa fa-whatsapp"></i> &nbsp;<?= $nama_popup; ?></a>
 							<?php } ?>
 						</td>
 						<td><?= nama_depan($row["nama_lengkap"]); ?></td>

@@ -18,3 +18,4 @@ application/logs/*
 /backup_db/*
 application/controllers/Dokumentasi.php
 !application/controllers/Dokumentasi.php
+application/config/database.php
